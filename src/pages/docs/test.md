@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: test
 weight: 0
 excerpt: lorem-ipsum
 template: docs
