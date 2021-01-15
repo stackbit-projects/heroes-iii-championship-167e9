@@ -4,7 +4,6 @@ sections:
   - section_id: hero
     type: section_hero
     title: Hero Section
-    image: images/5.jpg
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
@@ -12,6 +11,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
+    image: images/500px-Screenshot_3dd.png
   - section_id: features
     type: section_grid
     col_number: three
