@@ -11,6 +11,7 @@ sections:
       - label: Get Started
         url: /docs
         style: primary
+    image: images/500px-Screenshot_3dd.png
   - section_id: features
     type: section_grid
     col_number: three
